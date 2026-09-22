@@ -1,0 +1,5 @@
+,Actual Target,Baseline DNN,Improved DNN
+Mean,621.5511,604.2734,624.67615
+Standard deviation,331.76407,34.28861,31.953234
+Minimum,50.0,422.48483,0.0
+Maximum,1200.0,1785.2651,795.12775
